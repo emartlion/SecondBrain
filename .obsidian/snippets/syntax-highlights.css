@@ -1,0 +1,39 @@
+/* 
+Syntax highlighting: Atom One Dark
+https://github.com/atom/atom/blob/master/packages/one-dark-syntax/README.md 
+*/
+
+body {
+	--code-background: #282c34; /* Code background color */
+	--code-white-space: pre; /* Preserve white spaces */
+	--code-size: 13px; /* Code font size */
+	--code-normal: #abb2bf; /* Normal text color */
+	--code-comment: #5c6370; /* Comment color */
+	--code-function: #61aeee; /* Function color */
+	--code-important: #e06c75; /* Important element color */
+	--code-keyword: #c678dd; /* Keyword color */
+	--code-operator: #abb2bf; /* Operator color */
+	--code-property: #98c379; /* Property color */
+	--code-punctuation: #abb2bf; /* Punctuation color */
+	--code-string: #98c379; /* String color */
+	--code-tag: #c678dd; /* HTML tag color */
+	--code-value: #d19a66; /* Value color */
+}
+
+/* Para CodeMirror 6 (Obsidian moderno) */
+.cm-editor .cm-line {
+    /* Funciones built-in */
+    & .cm-meta.cm-builtin {
+        color: #61aeee !important;
+    }
+    
+    /* Nombres de variables */
+    & .cm-variable {
+        color: #e06c75 !important;
+    }
+    
+    /* Definiciones de funciones */
+    & .cm-def {
+        color: #e5c07b !important;
+    }
+}

@@ -1,0 +1,133 @@
+/* 
+Syntax highlighting: Atom One Dark
+https://github.com/atom/atom/blob/master/packages/one-dark-syntax/README.md 
+*/
+
+/* =============================================
+   OBSIDIAN - SYNTAX HIGHLIGHTING (ONE DARK+)
+   ============================================= */
+
+body {
+	--code-background: #282c34;
+	--code-white-space: pre;
+	--code-size: 13px;
+	--code-normal: #abb2bf;
+	--code-comment: #5c6370;
+	--code-function: #61aeee;
+	--code-important: #e06c75;
+	--code-keyword: #c678dd;
+	--code-operator: #56b6c2;
+	--code-property: #56b6c2;
+	--code-punctuation: #abb2bf;
+	--code-string: #98c379;
+	--code-tag: #e06c75;
+	--code-value: #d19a66;
+}
+
+/* ── Keywords (def, class, import, return...) ── */
+.cm-editor .cm-keyword {
+	color: #c678dd !important;
+}
+
+/* ── Funciones: llamadas ── */
+.cm-editor .cm-variableName.cm-function,
+.cm-editor .cm-function {
+	color: #61aeee !important;
+}
+
+/* ── Funciones: definición (el nombre tras "def") ── */
+.cm-editor .cm-variableName.cm-definition,
+.cm-editor .cm-def {
+	color: #e5c07b !important;
+	font-weight: bold;
+}
+
+/* ── Métodos (obj.metodo()) ── */
+.cm-editor .cm-propertyName.cm-function {
+	color: #56b6c2 !important;
+}
+
+/* ── Propiedades / atributos (obj.atributo) ── */
+.cm-editor .cm-propertyName {
+	color: #abb2bf !important;
+}
+
+/* ── Clases y tipos ── */
+.cm-editor .cm-typeName,
+.cm-editor .cm-className {
+	color: #e5c07b !important;
+}
+
+/* ── Variables ── */
+.cm-editor .cm-variableName {
+	color: #e06c75 !important;
+}
+
+/* ── self / this ── */
+.cm-editor .cm-self {
+	color: #e06c75 !important;
+	font-style: italic;
+}
+
+/* ── Built-ins (print, len, range...) ── */
+.cm-editor .cm-meta.cm-builtin,
+.cm-editor .cm-builtin {
+	color: #e06c75 !important;
+}
+
+/* ── Decoradores (@decorator) ── */
+.cm-editor .cm-decorator,
+.HyperMD-codeblock .cm-meta {
+	color: #e06c75 !important;
+	font-style: italic;
+}
+
+/* ── Strings ── */
+.cm-editor .cm-string {
+	color: #98c379 !important;
+}
+
+/* ── Strings especiales (f-strings, raw...) ── */
+.cm-editor .cm-string.cm-special {
+	color: #89ca78 !important;
+	font-style: italic;
+}
+
+/* ── Números ── */
+.cm-editor .cm-number {
+	color: #d19a66 !important;
+}
+
+/* ── Booleanos y None/null ── */
+.cm-editor .cm-bool,
+.cm-editor .cm-null,
+.cm-editor .cm-atom {
+	color: #d19a66 !important;
+	font-style: italic;
+}
+
+/* ── Operadores ── */
+.cm-editor .cm-operator {
+	color: #56b6c2 !important;
+}
+
+/* ── Puntuación y brackets ── */
+.cm-editor .cm-punctuation {
+	color: #abb2bf !important;
+}
+.cm-editor .cm-bracket,
+.cm-editor .cm-paren,
+.cm-editor .cm-brace {
+	color: #abb2bf !important;
+}
+
+/* ── Comentarios ── */
+.cm-editor .cm-comment {
+	color: #5c6370 !important;
+	font-style: italic;
+}
+
+/* ── Parámetros de función ── */
+.cm-editor .cm-variableName.cm-local {
+	color: #ffb347 !important;
+}

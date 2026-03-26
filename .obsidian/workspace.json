@@ -1,0 +1,346 @@
+{
+  "main": {
+    "id": "eb33b04654c43329",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff77fd1236601e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2908b82d9099e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOCs/Databases MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Databases MOC"
+            }
+          },
+          {
+            "id": "71d4d7fa438ea1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Filtrar Texto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filtrar Texto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5800f0cb15145c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "5072b12e993985b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9087fcfbf937bd92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6729f258da7e91a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f5f100a73216669",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "447280260e87267c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16bd01665ee2b1b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "063b436791c71759",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d3cdf4a6479511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b98a8db184afae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d6a152f65c50988c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Databases/Filtrar Texto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Filtrar Texto"
+            }
+          },
+          {
+            "id": "d8f06c936c660148",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1b268daeaafe7076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "820b351fef0fb74e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "cd4b167cac4cbdde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0b4dfebf9686c69",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "MOCs/Databases MOC.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4719166471064984,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Databases MOC"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9677b2dfb583fbf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42dfbb407c92f3ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MOCs/Databases MOC.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Databases MOC"
+            }
+          },
+          {
+            "id": "89d247f6dab5e7e3",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          },
+          {
+            "id": "306c4e32a9e6167f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Lenguajes/Instrucciones en Python.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "6007d3aa88a63ce4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cf2908b82d9099e5",
+  "lastOpenFiles": [
+    "MOCs/Untitled.base",
+    "MOCs/Databases MOC.md",
+    "MOCs/Plantillas/PlantillaDatabases.md",
+    "MOCs/Datos MOC.md",
+    "Databases/Filtrar Texto.md",
+    "MOCs/Plantillas/PlantillaDatos.md",
+    "Databases/Filtrar Datos Numéricos.md",
+    "MOCs/Plantillas/En Blanco.md",
+    "MOCs/Lenguajes MOC.md",
+    "Lenguajes/Instrucciones.md",
+    "Databases/Untitled.md",
+    "Databases/SQL Formatting.md",
+    "Databases/SQL.md",
+    "MOCs/Plantillas/PlantillaLenguajes.md",
+    "MOCs/Plantillas/PlantillaML.md",
+    "Lenguajes/Python.md",
+    "Lenguajes/NumPy Arrays.md",
+    "Lenguajes/Notebooks/NumPy/Basic.ipynb",
+    "Lenguajes/Notebooks/NumPy",
+    "Lenguajes/Qué es NumPy.md",
+    "Lenguajes/Booleanos.md",
+    "Lenguajes/Argumentos de Palabras Clave.md",
+    "Lenguajes/print().md",
+    "Lenguajes/Untitled.ipynb",
+    "Lenguajes/Qué Hace a un Lenguaje.md",
+    "Lenguajes/Strings.md",
+    "Lenguajes/Floats.md",
+    "Lenguajes/Enteros.md",
+    "Lenguajes/Valores Literales.md",
+    "Papers",
+    "Lenguajes/Paradigma Imperativo",
+    "MOCs/Plantillas",
+    "MOCs",
+    "Proyectos",
+    "Oficina"
+  ]
+}

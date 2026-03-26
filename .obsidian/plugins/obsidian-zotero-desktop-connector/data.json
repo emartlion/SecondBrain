@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Papers",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "cslStyle": "norsk-apa-manual"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Papers-APA",
+      "outputPathTemplate": "Papers/{{citekey}}.md",
+      "imageOutputPathTemplate": "Papers/{{citekey}}/",
+      "imageBaseNameTemplate": "figure",
+      "templatePath": "MOCs/Plantillas/PlantillaPapers.md",
+      "cslStyle": "apa"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Things",
+  "interfaceFontFamily": "SF Display",
+  "textFontFamily": "SF Text",
+  "monospaceFontFamily": "Google Sans Code,SF Mono",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "imgsAndLatex",
+    "imgs-and-latex",
+    "syntax-highlights-ALT"
+  ]
+}

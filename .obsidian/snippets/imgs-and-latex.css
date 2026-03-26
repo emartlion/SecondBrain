@@ -1,0 +1,9 @@
+img{ background: whitesmoke;}
+
+mjx-math {
+    font-size: 120% !important;
+}
+
+.math-block > mjx-container[jax="CHTML"] {
+    font-size: 100%;
+}
