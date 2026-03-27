@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNetwork",
+      "LiLockKeyhole",
       "LiCandlestickChart",
       "LiFolderCode",
-      "LiFolder",
-      "LiDatabase",
-      "LiBookText"
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,8 @@
     "iconName": "LiFolderCode",
     "iconColor": "#e2af22"
   },
-  "Visualizacion": "LiCandlestickChart"
+  "Visualizacion": "LiCandlestickChart",
+  "Datos": "LiCandlestickChart",
+  "Seguridad": "LiLockKeyhole",
+  "Networks": "LiNetwork"
 }

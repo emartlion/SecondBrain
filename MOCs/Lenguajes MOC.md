@@ -40,7 +40,10 @@ TABLE tags as Tags from "Lenguajes" and #lenguajes/r
 ```
 
 
-### SQL
+## Shells
 ```dataview
-TABLE tags as Tags from "ML"
+TABLE tags AS Tags
+FROM "Lenguajes"
+WHERE contains(file.tags, "#lenguajes/shells")
 ```
+

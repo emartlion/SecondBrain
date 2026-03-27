@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Databases  ",
@@ -29,24 +29,38 @@
       }
     },
     {
-      "query": "path:Oficina  ",
+      "query": "path:Networks  ",
       "color": {
         "a": 1,
         "rgb": 16676470
       }
     },
     {
-      "query": "path:Proyectos  ",
+      "query": "path:Papers  ",
       "color": {
         "a": 1,
         "rgb": 9664098
       }
     },
     {
-      "query": "path:Visualizacion  ",
+      "query": "path:Seguridad  ",
       "color": {
         "a": 1,
-        "rgb": 11403249
+        "rgb": 16756185
+      }
+    },
+    {
+      "query": "path:Datos  ",
+      "color": {
+        "a": 1,
+        "rgb": 11140861
+      }
+    },
+    {
+      "query": "path:Proyectos  ",
+      "color": {
+        "a": 1,
+        "rgb": 16775495
       }
     }
   ],
@@ -60,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1524818883264514,
+  "scale": 0.21377699808869083,
   "close": true
 }
