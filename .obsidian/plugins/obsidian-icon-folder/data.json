@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImages",
       "LiNetwork",
       "LiLockKeyhole",
       "LiCandlestickChart",
-      "LiFolderCode",
-      "LiFolder"
+      "LiFolderCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,20 +34,46 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "ML": "LiBrain",
-  "Lenguajes": "LiCode",
+  "ML": {
+    "iconName": "LiBrain",
+    "iconColor": "#e0b152"
+  },
+  "Lenguajes": {
+    "iconName": "LiCode",
+    "iconColor": "#b1e052"
+  },
   "Oficina": "LiPaperclip",
-  "Proyectos": "LiCog",
+  "Proyectos": {
+    "iconName": "LiCog",
+    "iconColor": "#fff947"
+  },
   "MOCs": "LiMap",
   "MOCs/Plantillas": "LiClipboardEdit",
-  "Papers": "LiBookText",
-  "Databases": "LiDatabase",
+  "Papers": {
+    "iconName": "LiBookText",
+    "iconColor": "#dfb395"
+  },
+  "Databases": {
+    "iconName": "LiDatabase",
+    "iconColor": "#a8baff"
+  },
   "Lenguajes/Notebooks": {
     "iconName": "LiFolderCode",
     "iconColor": "#e2af22"
   },
   "Visualizacion": "LiCandlestickChart",
-  "Datos": "LiCandlestickChart",
-  "Seguridad": "LiLockKeyhole",
-  "Networks": "LiNetwork"
+  "Datos": {
+    "iconName": "LiCandlestickChart",
+    "iconColor": "#a9fefd"
+  },
+  "Seguridad": {
+    "iconName": "LiLockKeyhole",
+    "iconColor": "#ffb6dd"
+  },
+  "Networks": {
+    "iconName": "LiNetwork",
+    "iconColor": "#fe7676"
+  },
+  "Databases/media": "LiImages",
+  "Datos/media": "LiImages"
 }

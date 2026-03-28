@@ -47,3 +47,5 @@ FROM "Lenguajes"
 WHERE contains(file.tags, "#lenguajes/shells")
 ```
 
+### Bash
+To continue...

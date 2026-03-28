@@ -39,7 +39,7 @@
       "query": "path:Papers  ",
       "color": {
         "a": 1,
-        "rgb": 9664098
+        "rgb": 14660501
       }
     },
     {
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.21377699808869083,
+  "scale": 0.1524818883264514,
   "close": true
 }
